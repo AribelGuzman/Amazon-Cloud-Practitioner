@@ -1,2 +1,2 @@
 # Amazon-Cloud-Practitioner
-Resume custom made for certification. My notes for notion.
+Custom resume made for certification. My notes in Notion.
